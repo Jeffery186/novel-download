@@ -1,0 +1,6 @@
+**/logs
+**/.idea
+**/cachedata
+**/target
+**/*.iml
+
